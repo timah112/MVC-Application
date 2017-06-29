@@ -1,0 +1,2 @@
+# MVC-Application
+Java Application using Model View Controller Design Pattern to display recorded Student Information. Used standard MVC pattern to desgn a Model class aka POJO Class. Use 2 Controller classes; one which acts as a second Model Class to control the data flow into the actual POJO Class and the other acts as the Main class to execute the program. The View class contains methods that the user will view when they run the app.
